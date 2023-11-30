@@ -1,0 +1,3 @@
+# Excludes files with ".shader" and ".cginc" extensions from language statistics
+*.shader linguist-vendored
+*.cginc linguist-vendored
