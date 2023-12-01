@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: 53adb14065f7cde41ac43f4e29cb93b8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goldenplantREDO_0
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 130
+        width: 102
+        height: 235
+      alignment: 9
+      pivot: {x: 0.52312756, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a2727eeb0bd6149a7ff5071ee9b4ed
+      internalID: 1870172549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenplantREDO_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 130
+        width: 102
+        height: 235
+      alignment: 9
+      pivot: {x: 0.7775348, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59c1d2600812a24198caddfd4da0bfb
+      internalID: -102182359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenplantREDO_17
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 130
+        width: 102
+        height: 235
+      alignment: 9
+      pivot: {x: 0.30341235, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21ae8f01e7a2db4f81af84170ba34a6
+      internalID: 1640000371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenplantREDO_21
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 130
+        width: 102
+        height: 235
+      alignment: 9
+      pivot: {x: 0.47687125, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70237a9776d3a5740bf7043f1650c335
+      internalID: -1109951123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenplantREDO_22
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 142
+        width: 102
+        height: 214
+      alignment: 9
+      pivot: {x: 0.81222475, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be3f4b4bd9ba4d4fba6d5736d1b707a
+      internalID: -66680314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenplantREDO_23
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 130
+        width: 102
+        height: 235
+      alignment: 9
+      pivot: {x: 0.19933604, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4717c51450db6498c2bd7c38ba8283
+      internalID: 1563091498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenplantREDO_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 130
+        width: 135
+        height: 235
+      alignment: 9
+      pivot: {x: 0.82327676, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2bf88986d57a14ca432127e4811b3d
+      internalID: 1280197448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenplantREDO_32
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 129
+        width: 146
+        height: 235
+      alignment: 9
+      pivot: {x: 0.19300027, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badb611b80f098441a9358058624b433
+      internalID: -1857348486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      goldenplantREDO_7: 1432847204
+      goldenplantREDO_0: 1870172549
+      goldenplantREDO_14: -883358659
+      goldenplantREDO_20: -1908112
+      goldenplantREDO_21: -1109951123
+      goldenplantREDO_29: 2080579999
+      goldenplantREDO_9: 1012778910
+      goldenplantREDO_13: 1932116140
+      goldenplantREDO_11: -1089182701
+      goldenplantREDO_26: 409878910
+      goldenplantREDO_12: 467951631
+      goldenplantREDO_38: 1861063623
+      goldenplantREDO_6: -1157185010
+      goldenplantREDO_5: 1338089981
+      goldenplantREDO_24: -1806157597
+      goldenplantREDO_28: 1359002217
+      goldenplantREDO_15: 1315366977
+      goldenplantREDO_31: 1284692041
+      goldenplantREDO_36: -83609154
+      goldenplantREDO_30: 719477186
+      goldenplantREDO_17: 1640000371
+      goldenplantREDO_2: -277388322
+      goldenplantREDO_18: 1955777667
+      goldenplantREDO_33: -1777932976
+      goldenplantREDO_19: -965367938
+      goldenplantREDO_27: -2112214131
+      goldenplantREDO_3: 1413893502
+      goldenplantREDO_8: 198143767
+      goldenplantREDO_4: 2115366753
+      goldenplantREDO_35: 743616209
+      goldenplantREDO_34: 887426082
+      goldenplantREDO_1: 1349432216
+      goldenplantREDO_37: -1578621037
+      goldenplantREDO_25: 1280197448
+      goldenplantREDO_32: -1857348486
+      goldenplantREDO_10: 2015773898
+      goldenplantREDO_16: -102182359
+      goldenplantREDO_22: -66680314
+      goldenplantREDO_23: 1563091498
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

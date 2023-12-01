@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 2c7bc23f6380c90459a5478960e57dbf
+  - enabled: 1
+    path: Assets/Scenes/For 1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/For 2.unity
+    guid: 1db5a9f437b195148bb531122f29fcc1
+  - enabled: 1
+    path: Assets/Scenes/For 3.unity
+    guid: 53b5799c675f44a4184ee5b7af4f60c0
+  - enabled: 1
+    path: Assets/Scenes/Des 1.unity
+    guid: 0c6abc8cea33f0047908078fb19e014c
+  - enabled: 1
+    path: Assets/Scenes/Des 2.unity
+    guid: f041e2718da712149a8ac1abe3168416
+  - enabled: 1
+    path: Assets/Scenes/Des 3.unity
+    guid: 5474a924afa21644cb07787b00a53547
+  - enabled: 1
+    path: Assets/Scenes/Ice 1.unity
+    guid: b0d3b5e8b11b3864f9c8cfb44cc88384
+  - enabled: 1
+    path: Assets/Scenes/Ice 2.unity
+    guid: 7e03c1a123eb19f439d3ea1ed19738af
+  - enabled: 1
+    path: Assets/Scenes/Ice 3.unity
+    guid: 9ff0880c596ecb24d885ee66503cb9c1
+  - enabled: 1
+    path: Assets/Scenes/Space 1.unity
+    guid: ce2b76326cded1f4b8f5bfef520ceb59
+  - enabled: 1
+    path: Assets/Scenes/Space 2.unity
+    guid: 421ab1e5e52f5b9469eb407a2d3df506
+  - enabled: 1
+    path: Assets/Scenes/Space 3.unity
+    guid: 03d3448a5b9f9cd4ca7f4ec0c6e4cba7
+  - enabled: 1
+    path: Assets/Scenes/Space Boss.unity
+    guid: ae39917774177484a9b6d1cf2af84736
+  - enabled: 1
+    path: Assets/Scenes/YouWin.unity
+    guid: 04ae66fc0baf92d4f8fdb3a7809245e4
+  - enabled: 1
+    path: Assets/Scenes/YouLost.unity
+    guid: 6e9b7993a76a6234e923c3527d4a15d3
+  - enabled: 1
+    path: Assets/Scenes/Store.unity
+    guid: ff33bf5c8bf67b240a2e3ad97b876fc9
+  m_configObjects: {}

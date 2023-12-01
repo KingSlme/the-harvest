@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4056421898389674971
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4056421898389674973}
+  - component: {fileID: 4056421898389674972}
+  m_Layer: 0
+  m_Name: BirdSpawnerObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &4056421898389674973
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4056421898389674971}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4056421898389674972
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4056421898389674971}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 151b2b0dc8478284a9606d3ddcf477b2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  birdLeftSpawns:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  birdRightSpawns:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  birdBombSpawns:
+  - {fileID: 0}
+  leftSeedBird: {fileID: 8015762486730131074, guid: a523661acc5dc674c8e924451aadb5a7, type: 3}
+  rightSeedBird: {fileID: 2223745705647893687, guid: e0facf05127aebc49900720a2307ec58, type: 3}
+  leftFlowerBird: {fileID: 2907629204275712974, guid: 2641996b8e02d3345ba977b38399c5a7, type: 3}
+  rightFlowerBird: {fileID: 540902103135835546, guid: 34923a7626f73f141a9f3d2311d8fe4f, type: 3}
+  leftBombBird: {fileID: 3955072301749937676, guid: 0d0f51aaf09ae0a4e8a1002f4d4af1fd, type: 3}
+  rightBombBird: {fileID: 629119022193120469, guid: 229d390a86b15e8458d91647db9c0b40, type: 3}
